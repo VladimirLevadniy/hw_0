@@ -4,7 +4,6 @@ include '../func.php';
 
 $user_name = "Igor";
 
-if (1)
-{
+if (1) {
     echo 'hi';
 }
